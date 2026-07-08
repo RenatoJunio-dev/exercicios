@@ -1,0 +1,55 @@
+@charset "UTF-8";
+
+h1 {
+
+    font-family:Luckiest Guy, cursive;
+    font-size: 50px;
+}
+h2 {
+    font-family:Luckiest Guy, cursive;
+    font-size: 40px;
+    text-align: center;
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+header {
+    background-color: #00E5FF;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #FBC16B;
+     text-decoration: none;
+     border-radius: 10px;
+  
+}
+li > a {
+
+      list-style-type: none;
+      text-decoration: none;
+      color: black;
+      width:200px ;
+      text-align: left;
+}
+li > a:hover {
+
+    color: blue;
+}
+
+main {
+    background-color: 
+#4FE7EF;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+    
+
